@@ -1,0 +1,5 @@
+mcstatus==5.1.2
+discord==2.3.2
+discord-py-interactions==4.4.1
+discord-py-slash-command==3.0.3
+discord.py==2.3.2
